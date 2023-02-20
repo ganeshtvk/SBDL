@@ -16,6 +16,10 @@ if __name__ == '__main__':
     logger = Log4j(spark)
 
     logger.info("Finished creating Spark Session")
+    This is Kattekola
+    This is Ganesh
+    Wife is Tejasvi
+    Daugthers are Harshini & Tanvi
     This is Ganesh
     This is Kattekola
 
