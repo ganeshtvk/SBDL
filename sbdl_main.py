@@ -16,3 +16,8 @@ if __name__ == '__main__':
     logger = Log4j(spark)
 
     logger.info("Finished creating Spark Session")
+
+    This is the first statement
+    This is second statement
+    Then comes thrid statement
+    Finally fourth statement
