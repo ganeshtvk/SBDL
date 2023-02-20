@@ -17,17 +17,4 @@ if __name__ == '__main__':
 
     logger.info("Finished creating Spark Session")
 
-    This is the 1st statement
-    This is 2nd statement
-    Then comes thrid statement
-    Finally fourth statement
-
-
-
-    Again to check 1
-    check 2 
-    check 3
     
-    Added 4 
-    added 5 
-    added 6
