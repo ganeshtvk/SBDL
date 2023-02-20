@@ -21,3 +21,9 @@ if __name__ == '__main__':
     This is second statement
     Then comes thrid statement
     Finally fourth statement
+
+
+
+    Again to check 1
+    check 2 
+    check 3
