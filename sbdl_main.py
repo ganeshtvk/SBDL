@@ -16,9 +16,9 @@ if __name__ == '__main__':
     logger = Log4j(spark)
 
     logger.info("Finished creating Spark Session")
-<<<<<<< HEAD
-     Daugthers are Harshini & Tanvi
-=======
+
+
+
     This is Kattekola
     This is Ganesh
     Wife is Tejasvi
