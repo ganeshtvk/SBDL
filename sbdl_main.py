@@ -17,8 +17,14 @@ if __name__ == '__main__':
 
     logger.info("Finished creating Spark Session")
 
+
+
     This is Kattekola
     This is Ganesh
     Wife is Tejasvi
     Daugthers are Harshini & Tanvi
+    This is Ganesh
+    This is Kattekola
+>>>>>>> 14361c761159840b4e59aa0256f6e82f21117ea7
 
+    
